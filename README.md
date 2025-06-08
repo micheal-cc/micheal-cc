@@ -1,9 +1,7 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=200&section=header&text=Hi%20There!%20I'm%20Micheal%20C&fontSize=40&fontAlign=center&fontColor=ffffff" alt="banner"/>
 </p>
 
-<!-- Badges -->
 <p align="center">
   <a href="https://github.com/micheal-cc"><img src="https://img.shields.io/github/followers/micheal-cc?label=Follow&style=social" alt="GitHub"></a>
   <a href="mailto:info@micheal.cc"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
