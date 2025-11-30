@@ -60,15 +60,6 @@ I work on everything from high-performance Minecraft servers to custom panel set
 
 ---
 
-## 🌍 Connect With Me
-
-- 🌐 Website: [https://micheal.cc](https://micheal.cc)
-- 🧩 Services: [https://micheal.cc/services](https://micheal.cc/services)
-- 💬 Discord: [https://micheal.cc/discord](https://micheal.cc/discord)
-- ✉️ Email: [info@micheal.cc](mailto:info@micheal.cc)
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=100&section=footer"/>
 </p>
