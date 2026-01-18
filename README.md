@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=220&section=header&text=Micheal%20C&fontSize=50&fontAlign=center&fontColor=ffffff&desc=DevOps%20Engineer%20%7C%20Systems%20Architect%20%7C%20Full-Stack%20Dev&descFontSize=20&descAlign=center&descAlignY=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=250&section=header&text=Micheal%20C&fontSize=50&fontAlign=center&fontColor=ffffff&desc=DevOps%20Engineer%20%7C%20Systems%20Architect%20%7C%20Full-Stack%20Dev&descFontSize=20&descAlign=center&descAlignY=70" alt="header" />
 </div>
 
 <div align="center">
@@ -60,12 +60,6 @@ Instead of focusing on single projects, I build comprehensive ecosystems. Here i
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=micheal-cc&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=micheal-cc&theme=cobalt&hide_border=true&background=0D1117" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=100&section=footer"/>
